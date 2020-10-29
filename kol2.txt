@@ -4,4 +4,3 @@ prostaWersja2
 naprawaBledu1
 prostaWersja2
 prostaWersja
-zmiana4
