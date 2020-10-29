@@ -2,3 +2,5 @@ zmiana2
 prostaWersja1
 prostaWersja2
 naprawaBledu1
+prostaWersja2
+prostaWersja
