@@ -5,4 +5,6 @@ zmiana3
 =======
 zmiana1
 zmiana2
-zmiana w Clonie
+testy1
+zmiana w repo oryginalnym
+zmina 2 repo org
