@@ -6,3 +6,4 @@ zmiana3
 zmiana1
 zmiana2
 testy1
+zmiana w repo oryginalnym
