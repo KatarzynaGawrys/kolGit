@@ -5,3 +5,4 @@ naprawaBledu1
 prostaWersja2
 prostaWersja
 zmiana4
+zmiana5
