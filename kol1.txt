@@ -1,3 +1,7 @@
+HEAD
 zmiana1
 zmiana2
 zmiana3
+=======
+zmiana1
+zmiana2
