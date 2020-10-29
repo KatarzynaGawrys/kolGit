@@ -1,1 +1,4 @@
 zmiana2
+prostaWersja1
+prostaWersja2
+naprawaBledu1
